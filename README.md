@@ -7,6 +7,15 @@ D3.js charts wrapped up as React.js controls for much less struggleful chart dev
 
 
 
+Status
+======
+
+Nope.  Not yet.
+
+
+
+
+
 Polemic :neckbeard:
 ===================
 
